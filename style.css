@@ -1,0 +1,29 @@
+img
+{
+    border: 1cm solid green;
+   border-radius:10px ;
+   margin-left: 10px;
+   
+
+   
+}
+div
+{
+  
+    background-color: greenyellow;
+    padding:10px;
+    
+}
+
+.img1
+{
+    clear: left;
+
+}
+.img2
+{
+    clear: right;
+}
+
+
+
