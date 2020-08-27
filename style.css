@@ -1,28 +1,46 @@
-img
-{
-    border: 1cm solid green;
-   border-radius:10px ;
-   margin-left: 10px;
-   
 
-   
-}
-div
-{
+.header {
+  height: 90px;
+  background-color: rgb(8, 155, 223);
+  text-align:left;
+  font-family: 'Bangers', cursive;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-bottom: 10px;
   
-    background-color: greenyellow;
-    padding:10px;
-    
 }
-
-.img1
-{
-    clear: left;
-
+.hero{
+    height: 250px;
+    background-color: gold;
+    padding-top: 10px;
+    font-family: 'Bangers', cursive;
+    margin-bottom: 10px
 }
-.img2
-{
-    clear: right;
+.introduccion{
+    height: 300px;
+    background-color: aqua;  
+    margin-bottom: 70px;
+    text-align:center;
+    font-family: 'Bangers', cursive;
+    margin-bottom: 10px
+}  
+
+.contacto{
+    height: 60px;
+    background-color: chartreuse;
+    margin-bottom: 70px;
+    text-align:center;
+    font-family: 'Bangers', cursive;
+}
+.footer{
+    height: 40px;
+    background-color: brown;
+    text-align:center;
+    font-family: 'Bangers', cursive;
+}
+.r1{
+    font-weight: 900;
+    font-size: 30px;
 }
 
 
